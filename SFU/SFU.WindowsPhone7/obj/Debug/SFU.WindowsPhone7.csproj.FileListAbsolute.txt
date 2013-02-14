@@ -1,0 +1,15 @@
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\ApplicationIcon.png
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\Background.png
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\SFU.WindowsPhone7.dll
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\SFU.WindowsPhone7.pdb
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\AppManifest.xaml
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\SFU.WindowsPhone7.xap
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\SFU.WindowsPhone7.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\App.g.cs
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\MainPage.g.cs
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\SFU.WindowsPhone7.g.resources
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\SFU.WindowsPhone7.dll
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\SFU.WindowsPhone7.pdb
+C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU.WindowsPhone7\obj\Debug\XapCacheFile.xml
