@@ -1,5 +1,0 @@
-C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU\obj\Debug\SFU.csprojResolveAssemblyReference.cache
-C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU\bin\Debug\SFU.Internal.dll
-C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU\bin\Debug\SFU.Internal.pdb
-C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU\obj\Debug\SFU.Internal.dll
-C:\Users\Geoff\Documents\GitHub\SFU\SFU\SFU\obj\Debug\SFU.Internal.pdb
