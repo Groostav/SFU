@@ -10,7 +10,7 @@
         <category android:name="mono.android.intent.category.SEPPUKU.SFU.Android" />
       </intent-filter>
     </receiver>
-    <activity android:icon="@drawable/icon" android:label="SFU.Android" android:name="sfu.android.TrialSplashScreen94b9523ea4e240ad841c01207ab6a26e" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+    <activity android:icon="@drawable/icon" android:label="SFU.Android" android:name="sfu.android.TrialSplashScreen51e4750d0104418abe1f6ede6220c1bf" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

@@ -12,3 +12,4 @@ D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\res\values\strings.xml
 D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\res\drawable\icon.png
 D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\R.cs.flag
 D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\uploadflags.txt
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\CodeContracts\SFU.Android.noReferenceAssembly
