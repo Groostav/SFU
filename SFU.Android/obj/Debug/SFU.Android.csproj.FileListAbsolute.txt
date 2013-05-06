@@ -1,0 +1,14 @@
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\SFU.Android.dll
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\SFU.Android.pdb
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\SFU.Android.dll.mdb
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\SFU.Android.apk
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\bin\Debug\SFU.Android-Signed.apk
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\SFU.Android.csprojResolveAssemblyReference.cache
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\SFU.Android.dll
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\SFU.Android.pdb
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\android\bin\SFU.Android.apk
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\res\layout\main.xml
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\res\values\strings.xml
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\res\drawable\icon.png
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\R.cs.flag
+D:\Users\Geoff\Code\C#\SFU\SFU.Android\obj\Debug\uploadflags.txt

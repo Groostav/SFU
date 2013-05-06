@@ -1,0 +1,1 @@
+SFU.Android.SimpleActivity;sfu.android.SimpleActivity

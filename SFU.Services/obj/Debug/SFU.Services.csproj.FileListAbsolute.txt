@@ -1,0 +1,5 @@
+D:\Users\Geoff\Code\C#\SFU\SFU.Services\bin\Debug\SFU.Services.dll
+D:\Users\Geoff\Code\C#\SFU\SFU.Services\bin\Debug\SFU.Services.pdb
+D:\Users\Geoff\Code\C#\SFU\SFU.Services\obj\Debug\SFU.Services.csprojResolveAssemblyReference.cache
+D:\Users\Geoff\Code\C#\SFU\SFU.Services\obj\Debug\SFU.Services.dll
+D:\Users\Geoff\Code\C#\SFU\SFU.Services\obj\Debug\SFU.Services.pdb
